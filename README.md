@@ -1,4 +1,4 @@
-# Cambium Video Encoding with Bitmovin
+# Video Encoding with Bitmovin
 
 This repository contains an Azure Function that handles video processing using the Bitmovin API. The main functionality includes triggering video encoding workflows in response to blob uploads to an Azure Blob Storage container.
 
